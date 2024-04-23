@@ -1,0 +1,9 @@
+ball-radius= 4mm
+speed(fic_trac):4mm*1=4mm
+Unity(desert scene)_enlargement:1 unit = 40mm, 100x100x100 units
+screen cover:330 degree
+radius of screen inner: 3.3 cm
+fly eyes to screen degree: 90 degree
+elevation: 1/3 elevation
+fruit fly body: 3mm x 2mm
+screen height: 13.5 cm
